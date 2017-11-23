@@ -15,7 +15,7 @@ In the 1920s...
 - http://millvalley.pastperfectonline.com/photo/26DBA7F4-D115-4B66-85DC-026227342187
 
 ## SketchUp Model
-- Made by [name here]
+- Made by Mey Uysaloglu
 - Model completed: December, 2017
 - Modeled in SketchUp 2017
 
