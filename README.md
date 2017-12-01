@@ -13,6 +13,8 @@ In the 1920s...
 
 ### Online references:
 - http://millvalley.pastperfectonline.com/photo/26DBA7F4-D115-4B66-85DC-026227342187
+- https://www.tamdistrict.org/cms/lib/CA01000875/Centricity/Domain/409/History-walk-guidebook-2008.pdf
+- https://en.wikipedia.org/wiki/Tamalpais_High_School
 
 ## SketchUp Model
 - Made by Mey Uysaloglu
