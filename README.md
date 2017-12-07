@@ -21,7 +21,7 @@ In the 1920s...
 - Model completed: December, 2017
 - Modeled in SketchUp 2017
 
-![SketchUp Make 2017 model screenshot](https://github.com/TimeWalkOrg/building-mill-valley-ca-wood-hall/blob/master/wood-hall-1920.png)
+![SketchUp Make 2017 model screenshot](https://github.com/TimeWalkOrg/building-mill-valley-ca-wood-hall/blob/master/wood-hall-1920.jpg)
 
 ![1914 Image](https://github.com/TimeWalkOrg/building-mill-valley-ca-wood-hall/blob/master/wood-hall-1914-measured.JPG)
 
